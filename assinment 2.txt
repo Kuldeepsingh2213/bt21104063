@@ -1,0 +1,11 @@
+Ans1 The condition for the traversing element/variable has reached the first element 
+is when the variable next(pointer) point to the head of the single-circular linked list 
+hence the traversing element/variable reaced the first element. 
+
+
+Ans 2 Circular lists are used in applications where the entire list is accessed one-by-one in a loop.
+*It is also used by the Operating system to share time for different users, generally uses a Round-Robin time-sharing mechanism.
+*Multiplayer games use a circular list to swap between players in a loop.
+*Implementation of Advanced data structures like Fibonacci Heap.
+*The browser cache which allows you to hit the BACK button.
+*Circular linked list used Most recent list.
