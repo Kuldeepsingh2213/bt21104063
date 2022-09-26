@@ -1,6 +1,6 @@
 Ans1 The condition for the traversing element/variable has reached the first element 
-is when the variable next(pointer) point to the head of the single-circular linked list 
-hence the traversing element/variable reaced the first element. 
+is when the variable next(pointer) point to the head next of the single-circular linked list 
+hence the traversing element/variable reached the first element. 
 
 
 Ans 2 Circular lists are used in applications where the entire list is accessed one-by-one in a loop.
